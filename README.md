@@ -7,4 +7,6 @@ Here I use some data which I used in another projects:
 - and my old own data from PhD project about Kara Sea benthos
 
 Block with Javascript constructed with llm (I don't understand Javascript) with frames of task
-In model part for restoration of features I used multi-output Random Forest and KNN with some preprocessing
+In part of dimension reduction i used PCA, UMAP and MDS
+In model part for restoration of features I used multi-output Random Forest or KNN with some preprocessing
+The code ran successfully on Windows and WSL Ubuntu, but still needs debugging for Mac
